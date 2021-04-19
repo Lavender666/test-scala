@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: /Users/lavender/test-scala/src/main/scala/spark_test/WordC
+ ount.scala
+Main-Class: spark_core_test_scala.WordCount
+
